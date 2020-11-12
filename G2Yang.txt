@@ -1,1 +1,2 @@
 Fitxer Wu_Yang
+Afegeixo linea desde el repositori local
